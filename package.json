@@ -1,0 +1,30 @@
+{
+  "name": "restaurantvr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartbeatnt/restaurantVR.git"
+  },
+  "dependencies": {
+    "aframe": "0.5.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.3.3",
+    "webpack-glsl-loader": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hartbeatnt/restaurantVR/issues"
+  },
+  "homepage": "https://github.com/hartbeatnt/restaurantVR#readme"
+}
